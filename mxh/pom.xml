@@ -8,13 +8,13 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.BACONBAO</groupId>
-	<artifactId>MXH</artifactId>
+	<groupId>com.baconbao</groupId>
+	<artifactId>mxh</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MXH</name>
-	<description>MXH project for Spring Boot</description>
+	<name>mxh</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

@@ -1,4 +1,4 @@
-package com.BACONBAO.MXH;
+package com.baconbao.mxh;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

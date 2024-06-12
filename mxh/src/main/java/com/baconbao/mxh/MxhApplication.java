@@ -1,4 +1,4 @@
-package com.BACONBAO.MXH;
+package com.baconbao.mxh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
