@@ -8,7 +8,7 @@ public class MxhApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MxhApplication.class, args);
-		/* hello */
+		
 	}
 
 }
